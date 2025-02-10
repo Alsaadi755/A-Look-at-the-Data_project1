@@ -18,13 +18,4 @@ This project analyzes the Stack Overflow Developer Survey 2017 dataset to uncove
    - Visualized the distribution of job satisfaction scores to understand developers' sentiment.
 
 
-
----
-
-## Tools and Libraries Used
-- **Python**: Data analysis and visualization
-- **Pandas**: Data manipulation
-- **Matplotlib**: Visualization
-
-
----
+Link to the blog https://medium.com/@mohammedalsaadi0731/a-look-at-the-data-a48bb2d38793 
